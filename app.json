@@ -2,7 +2,7 @@
   "expo": {
     "name": "Ovation",
     "slug": "StandingOvationApp",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "orientation": "default",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
@@ -17,7 +17,7 @@
       "bundleIdentifier": "com.chrismatteson.StandingOvationApp",
       "icon": "./assets/icons/ios.png",
       "infoPlist": {
-        "NSPhotoLibraryUsageDescription": "We need access to your photo library to allow you to select videos.",
+        "NSPhotoLibraryUsageDescription": "We need access to your photo library to allow you to select videos."
       }
     },
     "android": {
